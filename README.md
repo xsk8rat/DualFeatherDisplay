@@ -13,7 +13,11 @@ https://www.thingiverse.com/thing:6751555
 The code runs on "Adafruit Feather M0 WiFi": https://www.adafruit.com/product/3044
 
 OLED: https://www.adafruit.com/product/4650
+
 Segmented LED: https://www.adafruit.com/product/3128
+
 Doubler: https://www.adafruit.com/product/2890
+
 Sensor: https://www.adafruit.com/product/3660
+
 RTC: https://www.sparkfun.com/products/14558
