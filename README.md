@@ -20,4 +20,4 @@ Doubler: https://www.adafruit.com/product/2890
 
 Sensor: https://www.adafruit.com/product/3660
 
-RTC: https://www.sparkfun.com/products/14558
+RTC: https://www.sparkfun.com/products/14558 (Since it sets the clock with NTP, it doesn't 100% _need_ the battery. But it's what i have on hand.)
