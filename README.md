@@ -1,6 +1,8 @@
 Serves a webpage with the sensor data in JSON format: 
   {"temperaturevalue":77.984588623046875,"temperatureunits":"F","temperaturesensor":"BME680","humidityvalue":41.939704895019531,"humidityunits":"%R","humiditysensor":"BME680","pressurevalue":991.0701904296875,"pressureunits":"hPa","pressuresensor":"BME680","gasTVOCvalue":161.90249633789062,"gasTVOCunits":"kOhms","gasTVOCsensor":"BME680","wifipowervalue":-41,"wifipowerunits":"dBmW","wifipowersensor":"None","wifiIPNumber":"192.168.xx.xx","CODEDIR":"WebHumidity","CODENAME":"OLED_14Seg_BME680_006","DEVNAME":"WebData_013","location":"Indeterminate"}
 
+  There are some RaspberryPi scripts that can scrape the sensor periodically in the repo: https://github.com/xsk8rat/Basic-WebSensor-M0-WIN1500
+
 Displays the time averaged sensor values and network info to the OLED.
 
 Uses the bigger segmented display for a clock, which is set using an RTC and periodic NTP updates.
