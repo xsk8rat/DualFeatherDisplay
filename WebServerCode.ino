@@ -40,6 +40,11 @@ void serveWebPage() {
           dataObject["pressurevalue"]  = pressureValue;
           dataObject["pressureunits"]  = "hPa";
           dataObject["pressuresensor"] = "BME680";
+            
+          dataObject["gasTVOCvalue"]  = gasValue;
+          dataObject["gasTVOCunits"]  = "kOhms";
+          dataObject["gasTVOCsensor"] = "BME680";
+
 
           dataObject["wifipowervalue"]  = usedBm;
           dataObject["wifipowerunits"]  = "dBmW";
