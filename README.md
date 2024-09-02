@@ -1,5 +1,5 @@
 Serves a webpage with the sensor data in JSON format: 
-  {"temperaturevalue":77.542495727539062,"temperatureunits":"F","temperaturesensor":"BME680","humidityvalue":40.070812225341797,"humidityunits":"%R","humiditysensor":"BME680","pressurevalue":990.70745849609375,"pressureunits":"hPa","pressuresensor":"BME680","wifipowervalue":-42,"wifipowerunits":"dBmW","wifipowersensor":"None","wifiIPNumber":"192.168.68.78","CODEDIR":"WebHumidity","CODENAME":"OLED_14Seg_BME680_006","DEVNAME":"WebData_013","location":"Indeterminate"}
+  {"temperaturevalue":77.542495727539062,"temperatureunits":"F","temperaturesensor":"BME680","humidityvalue":40.070812225341797,"humidityunits":"%R","humiditysensor":"BME680","pressurevalue":990.70745849609375,"pressureunits":"hPa","pressuresensor":"BME680","wifipowervalue":-42,"wifipowerunits":"dBmW","wifipowersensor":"None","wifiIPNumber":"192.168.XX.XX","CODEDIR":"WebHumidity","CODENAME":"OLED_14Seg_BME680_006","DEVNAME":"WebData_013","location":"Indeterminate"}
 
 Displays the sensor values and network info to the OLED.
 
