@@ -8,3 +8,7 @@ Uses the bigger segmented display for a clock, which is set using an RTC and per
 Case is located at:
 
 https://www.thingiverse.com/thing:6751555
+
+The code runs on "Adafruit Feather M0 WiFi": 
+
+https://www.adafruit.com/product/3044
